@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Screenshots
+*.png
+*.jpg
+*.jpeg
+
+# Excel files
+*.xlsx
+
+# Local browser profiles
+browser_profile/
+google_profile/
+
+# VS Code
+.vscode/
+
+# Python environment files
+.env
